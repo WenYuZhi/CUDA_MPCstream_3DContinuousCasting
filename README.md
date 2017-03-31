@@ -1,2 +1,2 @@
-# CUDA_MPCstream_3DContinuousCasting
-3D MPC with stream
+# CUDA_Solver_3DPDEsContinuousCasting
+Based on CUDA solve 3D Continuous Casting Model
